@@ -633,7 +633,7 @@ if game.Players.LocalPlayer.UserId == 464475787 or game.Players.LocalPlayer.User
 
 		Tabs.CmdsTab:AddButton({
 			Title = "Admin House Cmd Script Showcase #1 - John Doe Boss (CMD IN DESC)",
-			Description = "By @s0me_xn3",
+			Description = "By s0me_xn3",
 			Callback = function()
 				Window:Dialog({
 					Title = "Public Cmd",
